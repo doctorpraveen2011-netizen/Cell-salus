@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { 
-  Globe, MapPin, Navigation, Compass, FileText, Info, 
+  Globe, MapPin, Navigation, Compass, Info, 
   Barcode, Cpu 
 } from 'lucide-react';
 
